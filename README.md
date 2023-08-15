@@ -18,17 +18,6 @@ Overall, this project demonstrates your skills in working with APIs, JavaScript,
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-- A web browser (e.g. Google Chrome, Firefox, Safari)
-- An internet connection
-- A code editor (e.g. VS Code, Atom)
-
-### Installing
-
-1. Clone or download the repository to your local machine
-2. Open the project in your code editor
-3. Open the index.html file in your web browser to run the app
 
 ## Built With
 
@@ -36,18 +25,10 @@ These instructions will get you a copy of the project up and running on your loc
 - CSS
 - JavaScript
 
-## Demo
-
-Check out the live demo of the application at https://imsahadeb.github.io/The-Meal-App-Coding-Ninjas/
-
-## Authors
-
-- [@imsahadeb](https://github.com/imsahadeb)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
-- The Meal DB API (https://www.themealdb.com
+- The Meal DB API (https://www.themealdb.com)
